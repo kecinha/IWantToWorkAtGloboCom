@@ -66,13 +66,12 @@ Financiador (es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - B
 - Estagiária na empresa a2portais durante 6 meses no ano de 2013. Trabalhando com o framework CakePHP, responsável pela otimizando da parte administrativa e implementado agendamento de cupons (Calendar jQuery) do site http://7desejos.com.br/.
 
 **Produção:**<br/>
-- Documentação, análise e definição de requisitos, projeto de sistema e de programas, banco de dados, implementação e testes, entrega, manutenção:
-
-- Aplicação desenvolvida em Java, para gerenciamento de uma fábrica de picolé e gelo, onde todo o sistema de controle da fábrica, encontrava-se manual.
-- Aplicação em PHP/JavaScript (jogo siga-me);
+- Documentação, análise e definição de requisitos, projeto de sistema e de programas, banco de dados, implementação e testes, entrega, manutenção:<br/>
+ - Aplicação desenvolvida em Java, para gerenciamento de uma fábrica de picolé e gelo, onde todo o sistema de controle da fábrica, encontrava-se manual. <br/>
+ - Aplicação em PHP/JavaScript (jogo siga-me);
 
 **Cursos Complementares**<br/>
--  Curso de idioma (inglês) na instituição Winner School (2010 - 2013 ~ Cursando) <br/> 
+-  Curso de idioma (inglês) na instituição Winner School (02/2010 - 12/2013) <br/> 
 
 **Participação em eventos, congressos, exposições e feiras**
 - 1. Latinoware. IX Conferência Latino-Americana de Software Livre. 2012. (Congresso).
