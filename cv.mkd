@@ -1,67 +1,80 @@
 Vaga
 ====
 
-- Área de Webmedia;
-- Área de Esportes;
-- Plataforma de Personalização;
-- Plataforma de Comentários.
+- Plataforma de Cadastro ;
+- Produtos Globo.com;
+- Plataforma de Comentários;
+- Área de Infraestrutura.
 
 
 CV
 ==
-
-**[CV Kécia Bastos]** <br/>
- **Dados Pessoais** <br/>
 - Kécia Martins Bastos<br/>
-- Brasileira, 18 anos (22/10/94), Solteira<br/>
-- Cep: 35182-132 Timóteo, Minas Gerais - Brasil<br/>
+- Brasileira, 19 anos (22/10/1994), Solteira<br/>
+- Endereço: Avenida Princesa Isabel, nº 576 ap. 401; Parque Recreio; Contagem <br/>
+- Cep: 32110-000; Minas Gerais - Brasil<br/>
 - Celular: (31) 8658-5370<br/>
 - kecia.bastos@gmail.com<br/>
  
 **Conhecimento e Áreas de Interesse**<br/>
+ 
+- Ampla experiência como desenvolvimento de projetos, levantamento, concepção e desenvolvimento de projetos e sistemas (Java, C/C++, PHP, HTML, CSS, Javascript, jQuery, JqueryUI);
+- Habilidades com SQL para a validação de dados, análise e geração de scripts DDL para as equipes de DBA. 
+- Sólida compreensão da administração do sistema de gerenciamento de banco de dados (SQL Server) no que diz respeito ao desempenho, configuração e desnormalização.
+- Habilidade de lidar com pessoas, interativa, proativa no compartilhamento e aprendizado de habilidades e conhecimentos com colegas.
+- Sistema Operacional: Linux - 4 anos; Windows - 9 anos;
+- IDE utilizadas: Eclipse e Netbeans
+- Frameworks utilizados: CakePHP, Yii.
 
-- Comunicativa, proativa, curiosa, facilidade para aprender, flexível a mudanças, responsável.
-- Java, C/C++, PHP, MySQLServer, HTML, CSS, Javascript, jQuery, JqueryUI
-- Sistema Operacional: Linux - 4 anos; Windows - 8 anos
-- IDE utilizada: Eclipse e Netbeans
+**Idiomas**<br/>
+
+- Português: Compreensão, fala, leitura, escrita: fluente.
+- Inglês: Compreensão, fala, leitura, escrita: avançada. 
+
 
 **Formação acadêmica/titulação**
+- Ensino médio - técnico (2o grau)
+Técnica em Informática no Centro Federal de Educação Tecnológica de Minas Gerais, CEFET/MG, Brasil. (2010 - 2013)
 
-**Graduação** 
-- Em andamento em Engenharia de Computação no Centro Federal de Educação Tecnológica de Minas Gerais, CEFET/MG, Brasil. (março/2013) <br/>
- 
-**Ensino médio - técnico (2o grau)**
-- Técnica em Informática no Centro Federal de Educação Tecnológica de Minas Gerais, CEFET/MG, Brasil. (2010 - 2013)
+- Graduação
+Em andamento em Engenharia de Computação no Centro Federal de Educação Tecnológica de Minas Gerais, CEFET/MG, Brasil. (março/2013) 
+
 
 **Atuação Profissional**
-
-Centro Federal de Educação Tecnológica de Minas Gerais, CEFET/MG, Brasil.
-
-- Vínculo: Bolsista, Enquadramento Funcional: Pesquisadora, Carga horária: 12, Regime: Dedicação exclusiva. (2012 - 2013)
-- Vínculo: Bolsista, Enquadramento Funcional: Pesquisadora, Carga horária: 12, Regime: Dedicação exclusiva. (2010 - 2011)
+- Centro Federal de Educação Tecnológica de Minas Gerais, CEFET/MG, Brasil.
+Vínculo: Bolsista, Enquadramento Funcional: Pesquisadora, Carga horária: 12, Regime: Dedicação exclusiva (2010 – 2011 / 2012 - 2013).
 
 **Projetos de pesquisa**
-- Análise do desenvolvimento de uma aplicação de e-commerce com e sem a utilização de framework (2012 - 2013)
-Programa Institucional de Bolsas de Iniciação Científica Júnior: "Análise do desenvolvimento de uma aplicação de e-commerce com e sem a utilização de framework" Criar uma aplicação de e-commerce para atender a demanda informada no cenário 2 do item caracterização do problema; Criar tal aplicação sem a utilização de framework. Criar tal aplicação com a utilização de framework. Analisar as vantagens e desvantagens do desenvolvimento de uma aplicação web com e sem a utilização de um framework.. 
-Situação: Concluído; Natureza: Pesquisa. <br/>
+- Análise do desenvolvimento de uma aplicação de e-commerce com e sem a utilização de framework (2012 - 2013).
+Criar uma aplicação de e-commerce com o objetivo de controlar a venda/compra de lugares nas topics direcionadas aos eventos que ocorrem nas cidades do Vale do Aço. Criar tal aplicação com e sem a utilização de framework. Analisar as vantagens e desvantagens do desenvolvimento de uma aplicação web com e sem a utilização de um framework.
+Elaboração completa do projeto, desde documentação, levantamento de requisitos, desenvolvimento, estrutura e base de dados (MySQLServer), programação da aplicação e testes.
+Situação: Concluído; 
+Natureza: Pesquisa.
 Integrantes: Kécia Martins Bastos - Coordenador / Deisymar Botega Tavares - Integrante.
-Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.
+Financiador (es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.
 
 - Recepção de obras literárias do Programa Nacional Biblioteca da Escola PNBE: o que agrada ou não jovens leitores (2010 - 2011)
-Programa Institucional de Bolsas de Iniciação Científica Júnior: " Recepção de obras literárias do Programa Nacional Biblioteca da Escola PNBE: o que agrada ou não jovens leitores " Analisar trabalhos acadêmicos do projeto Clube da Leitura ; Verificar, por meio da escrita dos alunos, as variáveis que interferem no gosto literário dos alunos; Ouvir os alunos sobre o que pensam a respeito dos livros selecionados para o PNBE.. 
-Situação: Concluído; Natureza: Pesquisa. 
-Alunos envolvidos: Graduação: (1) . 
+Programa Institucional de Bolsas de Iniciação Científica Júnior: " Recepção de obras literárias do Programa Nacional Biblioteca da Escola PNBE: o que agrada ou não jovens leitores " Analisar trabalhos acadêmicos do projeto Clube da Leitura; Verificar, por meio da escrita dos alunos, as variáveis que interferem no gosto literário dos alunos; Ouvir os alunos sobre o que pensam a respeito dos livros selecionados para o PNBE.
+Situação: Concluído; 
+Natureza: Pesquisa. 
 Integrantes: Kécia Martins Bastos - Coordenador / Micheline Madureira Lage - Integrante / Rachel Silva Azevedo Tavares - Integrante / Túlio Santana Lopes de Souza - Integrante.
-Financiador(es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.
+Financiador (es): Fundação de Amparo à Pesquisa do Estado de Minas Gerais - Bolsa.
 
-**Idiomas**
-- Português: Compreenção avançada, fala avançada, leitura avançada, escrita avançada. 
-- Inglês: Compreenção boa, fala boa, leitura boa, escrita boa. 
 
--**Cursos Complementares**<br/>
+
+**Estágio: **<br/>
+- Estagiária na empresa a2portais durante 6 meses no ano de 2013. Trabalhando com o framework CakePHP, responsável pela otimizando da parte administrativa e implementado agendamento de cupons (Calendar jQuery) do site http://7desejos.com.br/.
+
+**Produção: **<br/>
+- Documentação, análise e definição de requisitos, projeto de sistema e de programas, banco de dados, implementação e testes, entrega, manutenção:
+
+- Aplicação desenvolvida em Java, para gerenciamento de uma fábrica de picolé e gelo, onde todo o sistema de controle da fábrica, encontrava-se manual.
+- Aplicação em PHP/JavaScript (jogo siga-me);
+
+**Cursos Complementares**<br/>
 -  Curso de idioma (inglês) na instituição Winner School (2010 - 2013 ~ Cursando) <br/> 
 
 **Participação em eventos, congressos, exposições e feiras**
 - 1. Latinoware. IX Conferência Latino-Americana de Software Livre. 2012. (Congresso).
 - 2. META. Mostra Específica de Trabalhos e Aplicações. 2011. (Congresso).
-- 3. CompileMG.III Congresso de Computação e Tecnologia de Informação do Leste de Minas Gerais. 2011. (Seminário).
+- 3 CompileMG.III Congresso de Computação e Tecnologia de Informação do Leste de Minas Gerais. 2011. (Seminário).
